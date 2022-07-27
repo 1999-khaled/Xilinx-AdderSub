@@ -1,0 +1,29 @@
+Command line:
+   prime_prime_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51778
+
+Tue Nov 12 12:16:13 2019
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5160.1 Meg
+
+ Total Signals          : 96
+ Total Nets             : 34
+ Total Signal Drivers   : 26
+ Total Blocks           : 21
+ Total Primitive Blocks : 17
+ Total Processes        : 28
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 119
+Total Line Count : 45
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 4688.24 Meg
+
+Tue Nov 12 12:21:21 2019
+

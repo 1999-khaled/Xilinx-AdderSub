@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/KZ/addersub/adderSub.xst" -ofn "D:/KZ/addersub/adderSub.syr" 
